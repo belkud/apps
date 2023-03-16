@@ -13,3 +13,17 @@ label {
   height: 30px;
   padding-top: 3px;
 }
+.a {
+  /* gap: 25px; */
+}
+
+.c {
+  position: absolute;
+  width: 50px;
+  /* margin: 0 auto; */
+  top: -45px;
+  left: calc(50% - 49px);
+}
+.d {
+  position: relative;
+}
