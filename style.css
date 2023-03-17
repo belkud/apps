@@ -26,6 +26,7 @@ label {
 }
 .d {
   position: relative;
+<<<<<<< HEAD:Работа с Bootstrap/style.css
 }
 
 .f:hover {
@@ -34,3 +35,6 @@ label {
   opacity: 0.8;
   color: red;
  }
+=======
+}
+>>>>>>> 006261c399834b8c80d0a6af6a0cdc76587d90ef:style.css
