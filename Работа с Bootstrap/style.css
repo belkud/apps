@@ -13,3 +13,24 @@ label {
   height: 30px;
   padding-top: 3px;
 }
+.a {
+  /* gap: 25px; */
+}
+
+.c {
+  position: absolute;
+  width: 50px;
+  /* margin: 0 auto; */
+  top: -45px;
+  left: calc(50% - 49px);
+}
+.d {
+  position: relative;
+}
+
+.f:hover {
+  transition: 1s;
+  padding: 0px;
+  opacity: 0.8;
+  color: red;
+ }
