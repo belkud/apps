@@ -1,0 +1,9 @@
+.container {
+  /* width: 20%; */
+  padding: 100px;
+  margin: 20px;
+}
+.row>div:hover {
+  background-color: rgb(38, 83, 68);
+  color: white;
+}
