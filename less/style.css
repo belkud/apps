@@ -1,6 +1,8 @@
 html {
   height: 100%;
   width: 100%;
+  font-size: 25px;
+  text-shadow: 1px 1px 2px greenyellow;
 }
 
 
@@ -8,4 +10,12 @@ html {
 .green {
   background-color: green;
   color: yellow;
+  padding: 10px;
+  margin-top: 10px;
+}
+.pink {
+  background-color: pink;
+  color: rgb(200, 33, 144);
+  padding: 10px;
+  margin-top: 10px;
 }
