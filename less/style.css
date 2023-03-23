@@ -3,10 +3,9 @@ html {
   width: 100%;
 }
 
-.red {
-  background-color: red !important;
-}
+
+
 .green {
   background-color: green;
-  color: aqua;
+  color: yellow;
 }
