@@ -38,3 +38,21 @@ label {
 =======
 }
 >>>>>>> 006261c399834b8c80d0a6af6a0cdc76587d90ef:style.css
+
+.container-fluid {
+  /* width: 20%; */
+  margin-bottom: 100px;
+  /* padding-top: 100px; */
+  /* display: grid; */
+  /* text-align: center; */
+}
+.row>div:hover, h3:hover {
+  background-color: rgb(38, 83, 68);
+  color: white !important;
+  /* font-size: 25px; */
+}
+
+h3:hover {
+font-size: 25px;
+color: white !important;
+}
